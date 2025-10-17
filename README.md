@@ -1,6 +1,6 @@
 # 🛒 TechCart – Full Stack E-commerce Application
 TechCart is a full-stack e-commerce platform where users can browse, search, add, delete and purchase products.
-It is built with **Spring Boot, Hibernate, PostgreSQL, and React.js** to deliver a smooth shopping experience.
+It is built with **Java, Spring Boot, Hibernate, PostgreSQL, and React.js** to deliver a smooth shopping experience.
 
 ---
 
